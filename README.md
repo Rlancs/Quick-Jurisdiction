@@ -1,11 +1,9 @@
 # COMP102 - "Quick Jurisdiction" Project Brief
 ## Design
-My project will follow the requirements for the ALT Game Control contract. I'll be modelling it on the experience of being a judge in a courtroom, delivering verdicts for criminals in small time frames based on information provided by characters in the game and a physical paper document on the case. The controller for this experience will use multiple objects, listed below:
 * Wooden block and gavel - Hitting the gavel to the block registers an input to the game, delivering a verdict
 * Guilty and Not Guilty stamps - Two stamps that can be stamped onto paper, with the last stamp used deciding whether the verdict is Guilty or Not Guilty
 * Green/Red Ink pads - Used to refill the stamps with ink, both for physical use but will also register an input for a game mechanic requiring ink
 * Clipboard and documents - A clipboard holding 'documents' representing each of the cases in the game. Using a stamp on a document registers the input of the stamp.
-A priority for the design is enabling the physical stamping of documents and use of the gavel to enhance the immersion of playing the game.
 ## Research
 One inspiration for the experience is the game 'Papers Please', which plays similarly, approving or denying entry into a fictional country via the information provided in passports and documents, using stamps to approve or deny. I couldn't find any kind of controller replicating that physical experience, so the absence of other controllers inspired the design.
 ## Controller Components
