@@ -12,11 +12,8 @@ One inspiration for the experience is the game 'Papers Please', which plays simi
 * 2 RFID Tags - Integrated into the stamps, the tags are used to identify the stamp input as well as which stamp is used.
 
 A seeduino as well as jumper cables will also be used to connect together the components as part of a cohesive control scheme.
-## Images and Video
+## Video
 https://falmouthac-my.sharepoint.com/:v:/g/personal/rl272978_falmouth_ac_uk/EUn_fkXjpXFMnzWX2WgwPeMB3gDHRmozMMPSO2_zZ3lNpQ?e=ze4yEE
-
-![IMG_20230512_072804](https://media.github.falmouth.ac.uk/user/1434/files/f2daf36b-ff63-4888-9e3e-5f327e8232bf)
-![IMG_20230512_073503](https://media.github.falmouth.ac.uk/user/1434/files/6411d71f-ff05-45e2-953a-0863e9a324f2)
 
 ## Acknowledgements
 * ### RFID Library ###
