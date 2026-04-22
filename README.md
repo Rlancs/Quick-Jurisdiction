@@ -13,9 +13,7 @@ One inspiration for the experience is the game 'Papers Please', which plays simi
 
 A seeduino as well as jumper cables will also be used to connect together the components as part of a cohesive control scheme.
 ## Video
-https://falmouthac-my.sharepoint.com/:v:/g/personal/rl272978_falmouth_ac_uk/EUn_fkXjpXFMnzWX2WgwPeMB3gDHRmozMMPSO2_zZ3lNpQ?e=ze4yEE
-
-[Poster](Quick_Jurisdiction_-_Poster.pdf)
+[Video](https://falmouthac-my.sharepoint.com/:v:/g/personal/rl272978_falmouth_ac_uk/EUn_fkXjpXFMnzWX2WgwPeMB3gDHRmozMMPSO2_zZ3lNpQ?e=ze4yEE)
 
 ## Acknowledgements
 * ### RFID Library ###
