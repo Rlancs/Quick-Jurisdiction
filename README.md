@@ -1,4 +1,4 @@
-# COMP102 - "Quick Jurisdiction" Project Brief
+# "Quick Jurisdiction" Project Brief
 ## Design
 * Wooden block and gavel - Hitting the gavel to the block registers an input to the game, delivering a verdict
 * Guilty and Not Guilty stamps - Two stamps that can be stamped onto paper, with the last stamp used deciding whether the verdict is Guilty or Not Guilty
