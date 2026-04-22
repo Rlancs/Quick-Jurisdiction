@@ -1,0 +1,453 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1683874348177051, "dur":1425, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348178482, "dur":22, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1683874348178514, "dur":7, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1683874348178522, "dur":301, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1683874348178839, "dur":378, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348179217, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711652, "dur":195, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711848, "dur":39, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711887, "dur":23, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711910, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711917, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711919, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711924, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711926, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711931, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711932, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711937, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711938, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711943, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711944, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711949, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711950, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711954, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711956, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711960, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711961, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711966, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711967, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711972, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711973, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711977, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711978, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711983, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711984, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711988, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711989, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711994, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711995, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348711999, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348712005, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348712020, "dur":1025, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1683874348178980, "dur":241, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348179223, "dur":2135, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348181371, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1683874348181374, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348182316, "dur":490, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1683874348182808, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1683874348182870, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348183091, "dur":9344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1683874348192437, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1683874348192608, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348192614, "dur":91787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1683874348284451, "dur":36299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348320756, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348320762, "dur":7950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348328767, "dur":32385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348361155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348361162, "dur":1501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348362700, "dur":14225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348376929, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348376936, "dur":2661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348379636, "dur":26279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348405919, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348405926, "dur":836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348406804, "dur":32690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348439498, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348439505, "dur":3785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348443331, "dur":20706, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348464040, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348464047, "dur":7587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348471677, "dur":199365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348671046, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683874348671053, "dur":1035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683874348672133, "dur":39523, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348179040, "dur":193, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348179233, "dur":2137, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348181372, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1683874348181422, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348183950, "dur":8757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1683874348192722, "dur":36972, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348229700, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348229930, "dur":54270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348284219, "dur":20186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348304429, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348304436, "dur":8591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348313068, "dur":16265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348329337, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348329345, "dur":1002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348330385, "dur":93022, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348423412, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348423422, "dur":2977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348426443, "dur":16051, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348442498, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348442507, "dur":8426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348450985, "dur":39344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348490333, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348490339, "dur":78310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683874348568688, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1683874348568754, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348568759, "dur":12218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1683874348581024, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1683874348581155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683874348581161, "dur":2161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1683874348583361, "dur":128302, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348179012, "dur":213, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348179225, "dur":2140, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348181370, "dur":11563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1683874348192936, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348192955, "dur":1309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1683874348194299, "dur":88650, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348282953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348283031, "dur":1624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348284732, "dur":18837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348303574, "dur":64, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348303646, "dur":6440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348310129, "dur":22615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348332748, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348332755, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348333816, "dur":47286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348381106, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348381133, "dur":2418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348383588, "dur":20593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348404186, "dur":12, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348404204, "dur":1716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348405966, "dur":32291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348438263, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348438276, "dur":4454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348442778, "dur":17873, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348460654, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348460661, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348463634, "dur":20783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348484421, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348484429, "dur":5087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348489555, "dur":109740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348599300, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683874348599309, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683874348600779, "dur":110879, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348179031, "dur":198, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348179229, "dur":2133, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348181370, "dur":31833, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1683874348213213, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348213528, "dur":70686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1683874348284230, "dur":36689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348320922, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348320929, "dur":1465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348322437, "dur":15958, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348338399, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348338407, "dur":2463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348340911, "dur":31877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348372792, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348372802, "dur":1362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348374211, "dur":16474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348390689, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348390695, "dur":1707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348392443, "dur":35634, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348428081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348428087, "dur":1092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348429222, "dur":64418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348493644, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348493651, "dur":11723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348505423, "dur":205327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348710752, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683874348710758, "dur":833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683874348711622, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1683874348711624, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683874348179057, "dur":179, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683874348179236, "dur":2135, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683874348181371, "dur":9910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1683874348191284, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683874348191298, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1683874348192861, "dur":241414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683874348434278, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683874348434283, "dur":11701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683874348446004, "dur":18071, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683874348464079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683874348464104, "dur":975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683874348465118, "dur":109533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683874348574654, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683874348574661, "dur":1063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683874348575765, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1683874348575839, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683874348575844, "dur":6103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1683874348581987, "dur":129660, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683874348179073, "dur":166, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683874348179239, "dur":2136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683874348181377, "dur":8892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1683874348190276, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683874348190355, "dur":2052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1683874348192423, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1683874348192605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683874348192612, "dur":218655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1683874348411284, "dur":88101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683874348499388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683874348499395, "dur":38664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683874348538108, "dur":47148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683874348585260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683874348585267, "dur":2141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683874348587451, "dur":124206, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348179087, "dur":155, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348179242, "dur":2130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348181373, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1683874348181457, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348184042, "dur":8737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1683874348192796, "dur":123318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348316120, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348316196, "dur":4074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348320293, "dur":38909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348359206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348359212, "dur":1443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348360698, "dur":27353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348388055, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348388063, "dur":5341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348393446, "dur":45782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348439231, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348439239, "dur":2475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348441762, "dur":106373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348548141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348548149, "dur":1321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683874348549509, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1683874348549549, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348549606, "dur":2532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1683874348552177, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1683874348552256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348552262, "dur":1288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1683874348553590, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1683874348553757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348553762, "dur":978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1683874348554778, "dur":676, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1683874348555456, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348555460, "dur":20546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1683874348576052, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1683874348576119, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683874348576124, "dur":7145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1683874348583311, "dur":128336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348179105, "dur":141, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348179246, "dur":2127, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348181373, "dur":10741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1683874348192118, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348192131, "dur":2252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1683874348194397, "dur":16002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348210406, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348210791, "dur":73682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348284515, "dur":35037, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348319580, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348319588, "dur":1280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348320911, "dur":112582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348433497, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348433504, "dur":5663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348439217, "dur":21147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348460370, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348460380, "dur":2278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348462698, "dur":34146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348496848, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348496855, "dur":54000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683874348550904, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1683874348550975, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348550980, "dur":4271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1683874348555299, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1683874348555367, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348555372, "dur":18195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1683874348573605, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1683874348573669, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683874348573675, "dur":8559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1683874348582538, "dur":129112, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348179122, "dur":127, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348179249, "dur":2134, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348181383, "dur":10550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1683874348191937, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348191949, "dur":1428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1683874348193393, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1683874348193420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348193774, "dur":102433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1683874348296225, "dur":20385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348316614, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348316622, "dur":1435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348318158, "dur":40788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348358950, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348358956, "dur":787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348359780, "dur":36238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348396022, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348396028, "dur":9665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348405737, "dur":45568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348451309, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348451318, "dur":1625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348452981, "dur":155935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348608923, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683874348608931, "dur":1013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683874348609987, "dur":101674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683874348179136, "dur":116, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683874348179252, "dur":2122, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683874348181376, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1683874348181469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683874348184319, "dur":203205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1683874348387547, "dur":19793, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683874348407343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683874348407350, "dur":3425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683874348410818, "dur":18013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683874348428834, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683874348428840, "dur":3435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683874348432315, "dur":37622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683874348469941, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683874348469946, "dur":14180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683874348484172, "dur":160164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683874348644341, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683874348644349, "dur":1583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683874348645962, "dur":65700, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683874348179162, "dur":92, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683874348179254, "dur":2120, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683874348181375, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1683874348181418, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683874348183829, "dur":8801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1683874348192684, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1683874348192709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683874348192714, "dur":95221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1683874348287952, "dur":16085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683874348304040, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683874348304046, "dur":920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683874348305010, "dur":14727, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683874348319741, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683874348319748, "dur":1275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683874348321068, "dur":148065, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683874348469138, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683874348469147, "dur":4629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683874348473819, "dur":214050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683874348687874, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683874348687881, "dur":1560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683874348689468, "dur":22184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348179179, "dur":78, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348179257, "dur":2110, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348181370, "dur":11048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1683874348192421, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348192432, "dur":1212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1683874348193657, "dur":89327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348282987, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348283042, "dur":1774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348284867, "dur":105458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348390329, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348390336, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348392067, "dur":14880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348406950, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348406959, "dur":1901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348408901, "dur":17333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348426239, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348426247, "dur":1056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348427578, "dur":18687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348446268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348446275, "dur":1215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348447527, "dur":40671, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348488203, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348488211, "dur":12464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348500713, "dur":115460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348616178, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683874348616187, "dur":946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683874348617171, "dur":94489, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348179211, "dur":49, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348179260, "dur":2106, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348181371, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1683874348181441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348183659, "dur":9330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1683874348193004, "dur":102250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1683874348295259, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348295266, "dur":1263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1683874348296544, "dur":14367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348310914, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348310921, "dur":1109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348312078, "dur":59663, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348371747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348371755, "dur":1908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348373709, "dur":20332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348394045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348394052, "dur":925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348395019, "dur":14114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348409143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348409150, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348410937, "dur":34011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348444953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348444961, "dur":3683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348448681, "dur":20524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348469208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348469214, "dur":3902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348473156, "dur":196026, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348669188, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683874348669198, "dur":1241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683874348670486, "dur":41178, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348179227, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348179228, "dur":2135, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348181373, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1683874348181421, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348183692, "dur":9659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1683874348193368, "dur":89503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project.exe" }}
+,{ "pid":12345, "tid":14, "ts":1683874348282877, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348282886, "dur":1469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project.exe" }}
+,{ "pid":12345, "tid":14, "ts":1683874348284407, "dur":38660, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348323070, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348323075, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348324240, "dur":32770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348357016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348357025, "dur":1140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348358200, "dur":68813, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348427017, "dur":41, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348427064, "dur":4160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348431267, "dur":46258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348477531, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348477540, "dur":2610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348480191, "dur":159763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348639959, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683874348639968, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683874348641242, "dur":70417, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348179255, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348179256, "dur":2121, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348181378, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1683874348181542, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348190496, "dur":93954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1683874348284466, "dur":25742, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348310211, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348310218, "dur":1916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348312176, "dur":67221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348379401, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348379409, "dur":2774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348382227, "dur":28308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348410558, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348410565, "dur":1083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348411684, "dur":14965, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348426652, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348426659, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348427953, "dur":14705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348442661, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348442673, "dur":3448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348446164, "dur":52532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348498699, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348498707, "dur":2099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348500842, "dur":206566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348707411, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683874348707418, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683874348709255, "dur":2398, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683874348179280, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683874348179280, "dur":2088, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683874348181370, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1683874348181417, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683874348183430, "dur":255151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1683874348438604, "dur":31468, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683874348470075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683874348470081, "dur":13812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683874348483948, "dur":80647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683874348564600, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683874348564609, "dur":3180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683874348567828, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1683874348567894, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683874348567900, "dur":13466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/rober/COMP102-2200066/Quick Jurisdiction Build/blank-unity-project_Data/resources.assets" }}
+,{ "pid":12345, "tid":16, "ts":1683874348581406, "dur":130242, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683874348714018, "dur":1185, "ph":"X", "name": "ProfilerWriteOutput" }
+,
