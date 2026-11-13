@@ -1,6 +1,6 @@
 # Quick Jurisdiction: Hardware-Integrated Event & State Engine
 
-A real-time C# application that interfaces with an RFID reader and an audio-threshold gavel sensor to drive an interactive decision-making state machine. 
+A real-time C# application that interfaces with an Arduino with RFID reader and microphone modules to use physical stamps and a gavel and block to deliver Guilty or Not Guilty verdicts.
 
 In summary, stamp a physical piece of paper on a physical clipboard to decide a digital 'judgement', either Guilty or Not Guilty, then hit with the gavel to deliver the judgement.
 
