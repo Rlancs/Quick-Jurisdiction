@@ -9,7 +9,7 @@ Originally developed as an experimental interactive experience, this project dem
 ## Key Features
 
 * **Hardware & Serial Communication:** Integrates a custom physical clipboard equipped with an RFID reader to read, parse, and validate unique tag IDs from physical stamps in real time.
-* **Real-Time Audio Input Processing:** Monitors live microphone/piezo audio streams from a physical gavel and block, using amplitude/decibel threshold detection to register discrete impact events without false positives.
+* **Real-Time Audio Input Processing:** Monitors live piezo audio streams from a physical gavel and block, using decibel threshold detection to register discrete impact events with minimal false positives.
 * **Event-Driven State Machine:** Decouples physical hardware listeners from core application logic using C# events/delegates.
 * **Debouncing & Input Validation:** Implements cooldown timers and state locks to prevent duplicate triggers from sustained RFID proximity or acoustic reverberation.
 
