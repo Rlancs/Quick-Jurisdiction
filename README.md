@@ -1,24 +1,29 @@
-# "Quick Jurisdiction" Project Brief
-## Design
-* Wooden block and gavel - Hitting the gavel to the block registers an input to the game, delivering a verdict
-* Guilty and Not Guilty stamps - Two stamps that can be stamped onto paper, with the last stamp used deciding whether the verdict is Guilty or Not Guilty
-* Green/Red Ink pads - Used to refill the stamps with ink, both for physical use but will also register an input for a game mechanic requiring ink
-* Clipboard and documents - A clipboard holding 'documents' representing each of the cases in the game. Using a stamp on a document registers the input of the stamp.
-## Research
-One inspiration for the experience is the game 'Papers Please', which plays similarly, approving or denying entry into a fictional country via the information provided in passports and documents, using stamps to approve or deny. I couldn't find any kind of controller replicating that physical experience, so the absence of other controllers inspired the design.
+# Quick Jurisdiction: Hardware-Integrated Event & State Engine
+
+A real-time C# application that interfaces with custom physical hardware—an RFID reader and an audio-threshold gavel sensor—to drive an interactive decision-making state machine.
+
+## Overview
+
+Originally developed as an experimental interactive experience, this project demonstrates low-latency hardware-to-software communication, real-time audio signal detection, and deterministic state management in C#. Rather than relying on standard keyboard/mouse polling, the system processes asynchronous physical inputs from custom peripherals to trigger application logic and UI updates.
+
+## Key Features
+
+* **Hardware & Serial Communication:** Integrates a custom physical clipboard equipped with an RFID reader to read, parse, and validate unique tag IDs from physical stamps in real time.
+* **Real-Time Audio Input Processing:** Monitors live microphone/piezo audio streams from a physical gavel and block, using amplitude/decibel threshold detection to register discrete impact events without false positives.
+* **Event-Driven State Machine:** Decouples physical hardware listeners from core application logic using C# events/delegates.
+* **Debouncing & Input Validation:** Implements cooldown timers and state locks to prevent duplicate triggers from sustained RFID proximity or acoustic reverberation.
+
 ## Controller Components
 * 1 Arduino Microphone Module - Used to measure the gavel input as an audio spike
 * 3 RFID Readers - Used to measure stamp input. One will be integrated into the back of the clipboard, the other two at the back of the ink pads. When a stamp is used on the area nearby the reader, it will register an input, which depending on the RFID reader, it may indicate a stamp refill or a chosen verdict.
 * 2 RFID Tags - Integrated into the stamps, the tags are used to identify the stamp input as well as which stamp is used.
 
-A seeduino as well as jumper cables will also be used to connect together the components as part of a cohesive control scheme.
+A seeduino as well as jumper cables were used to connect together the components as part of a cohesive control scheme.
 ## Video
 [Link](https://falmouthac-my.sharepoint.com/:v:/g/personal/rl272978_falmouth_ac_uk/EUn_fkXjpXFMnzWX2WgwPeMB3gDHRmozMMPSO2_zZ3lNpQ?e=ze4yEE)
 
 ## Acknowledgements
 * ### RFID Library ###
-I used the MFRC522 library for the RFID reader, using some of the example code. It can be found here: https://github.com/miguelbalboa/rfid.git
+https://github.com/miguelbalboa/rfid.git
 * ### Arduino & Unity Communication ###
-I used this tutorial to help integrate the arduino inputs into unity https://youtu.be/ArgqeWpCDt8?t=476  
-* ### Stamp Hilts and Plates ###
-The robotics staff, Ben in particular, helped laser cut the stamp plates and 3D print the stamp hilts. I created the models however.
+https://youtu.be/ArgqeWpCDt8?t=476  
