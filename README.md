@@ -4,10 +4,6 @@ A real-time C# application that interfaces with an Arduino with RFID reader and 
 
 In summary, stamp a physical piece of paper on a physical clipboard to decide a digital 'judgement', either Guilty or Not Guilty, then hit with the gavel to deliver the judgement.
 
-## Overview
-
-Originally developed as an experimental interactive experience, this project demonstrates low-latency hardware-to-software communication, real-time audio signal detection, and deterministic state management in C#. Rather than relying on standard keyboard/mouse polling, the system processes asynchronous physical inputs from custom peripherals to trigger application logic and UI updates.
-
 ## Key Features
 
 * **Hardware & Serial Communication:** Integrates a custom physical clipboard equipped with an RFID reader to read, parse, and validate unique tag IDs from physical stamps in real time.
